@@ -1,0 +1,22 @@
+{
+    "education": [
+        {
+            "id": 1,
+            "title": "Web Development",
+            "place": "Life Choices Academy",
+            "year": "Apr 2023 - Present"
+        },
+        {
+            "id": 1,
+            "title": "High School",
+            "place": "Harry Gwala Secondary School",
+            "year": "Jan 2014 - Nov 2018"  
+        },
+        {
+            "id": 1,
+            "title": "Primary School",
+            "place": "Injongo Primary School",
+            "year": "Jan 2009 - Dec 2013"  
+        }
+    ]
+}
