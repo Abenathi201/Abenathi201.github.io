@@ -1,0 +1,149 @@
+{
+    "education": [
+        {
+            "id": 1,
+            "school": "Life Choices Academy",
+            "ducation": "Apr 2023 - Present",
+            "desc": "Currently I am studying coding at Life Choices Academy"
+        },
+        {
+            "id": 2,
+            "school": "Harry Gwala Secondary School",
+            "ducation": "Jan 2014 - Nov 2018",
+            "desc": "I graduated at Harry Gwala Secondary School with a bachelor's pass in 2018."
+        },
+        {
+            "id": 3,
+            "school": "Injongo Primary School",
+            "ducation": "Jan 2009 - Dec 2013",
+            "desc": "I finished primary school back in 2013 at Injongo Primary School."
+        }
+    ],
+
+    "experience": [
+        {
+            "id": 1,
+            "school": "Life Choices Academy",
+            "ducation": "Apr 2023 - Present",
+            "desc": "I currently enrolled at Life Choices Academy where I'm receiving skills and experience to become a web developer in the near future."
+        },
+        {
+            "id": 2,
+            "school": "Repairing Cellphones",
+            "ducation": "2018 - Present",
+            "desc": "As a side hustle I am fixing people's cellphones whether it be FRP bypass, WhatsApp updates or bypassing security on most Android phones excluding IOS."
+        }
+    ],
+
+    "projects": [
+        {
+            "id": 1,
+            "link": "https://thriving-bootstrap-project.netlify.app/",
+            "github:": "https://github.com/Abenathi201/Bootstrap-Project",
+            "image": "https://i.postimg.cc/zBtZTYRB/Screenshot-2023-07-06-091632.png",
+            "name": "Bootstrap and CSS Portfolio"
+        },
+        {
+            "id": 2,
+            "link": "https://lively-kashata-daebbe.netlify.app/",
+            "github:": "https://github.com/Abenathi201/BMI-Calculator",
+            "image": "https://i.postimg.cc/8kYg5DSX/Screenshot-2023-07-06-091809.png",
+            "name": "BMI Calculator"
+        },
+        {
+            "id": 3,
+            "link": "https://lustrous-custard-0c1285.netlify.app/",
+            "github:": "https://github.com/Abenathi201/E-Cormmerce-Vue",
+            "image": "https://i.postimg.cc/3x5MXBWg/Screenshot-2023-07-06-091917.png",
+            "name": "VUE.JS E-COMMERCE Website"
+        },
+        {
+            "id": 4,
+            "link": "https://bespoke-pika-c065c0.netlify.app/",
+            "github:": "https://github.com/Abenathi201/JavaScript-End-Module-Project",
+            "image": "https://i.postimg.cc/pXnb57VW/Screenshot-2023-07-06-092015.png",
+            "name": "JavaScript E-Commerce Website"
+        },
+        {
+            "id": 5,
+            "link": "https://todo-list-4e3b7d.netlify.app/",
+            "github:": "https://github.com/Abenathi201/ToDo-List",
+            "image": "https://i.postimg.cc/d1tc7V3p/Screenshot-2023-07-06-092318.png",
+            "name": "TODO List"
+        },
+        {
+            "id": 6,
+            "link": "https://sunny-gumdrop-5e2975.netlify.app/",
+            "github:": "https://github.com/Abenathi201/Temperature-Converter",
+            "image": "https://i.postimg.cc/gjQCBysb/Screenshot-2023-07-06-092501.png",
+            "name": "Temperature Converter"
+        }
+    ],
+
+    "skills": [
+        {
+            "id": 1,
+            "name": "HTML5",
+            "image": "https://i.postimg.cc/Zqm55Shy/html.png"
+        },
+        {
+            "id": 2,
+            "name": "CCS3",
+            "image": "https://i.postimg.cc/DZyf1P0v/css-3.png"
+        },
+        {
+            "id": 3,
+            "name": "Bootstrap",
+            "image": "https://i.postimg.cc/7LNYCWxt/bootstrap.png"
+        },
+        {
+            "id": 4,
+            "name": "JavaScript",
+            "image": "https://i.postimg.cc/13wzSzbQ/js.png"
+        },
+        {
+            "id": 5,
+            "name": "Vue.JS",
+            "image": "https://i.postimg.cc/RV3FPdRq/icons8-vue-js-48.png"
+        }
+    ],
+
+    "testimonials": [
+        {
+            "id": 1,
+            "image": "https://i.postimg.cc/qMkL3LJP/john-bruce-noad-portfolio-photo.jpg",
+            "name": "John Bruce",
+            "testimony": "I highly recommend Abenathi for any web development projects. Their exceptional skills, dedication, and eagerness to learn are truly impressive. [He/She] have a eye for design, a deep understanding of programming languages, and an ability to solve complex problems efficiently. Their commitment to meeting deadlines and the work they put towards achieving their results is outstanding. Working with [Your Name] was a pleasure, and I have no doubt that they will thrive in their future endeavors as a professional web developer. I wholeheartedly endorse them for any web development opportunities!"
+        },
+        {
+            "id": 2,
+            "image": "https://i.postimg.cc/g0R9JZPB/C12-Cheslyn-Herman-1.jpg",
+            "name": "Cheslyn Herman",
+            "testimony": "Abenathi is a great person to work with. He is a selfless person who strives for team effort. Being part of his team allows you to work better under pressure as she ensures to always help where its needed."
+        },
+        {
+            "id": 3,
+            "image": "https://i.postimg.cc/T1TvBYFN/c12-c1-ethan-lesar-3.jpg",
+            "name": "Ethan Lesar",
+            "testimony": "I have had the pleasure of working with Abenathi, and I must say that he is one of the most respectful and considerate individuals I have ever met. Despite being quieter in nature, his contributions to the team are invaluable."
+        },
+        {
+            "id": 4,
+            "image": "https://i.postimg.cc/15C1YSHM/C12-Okuhle-Gwotiwe-1.jpg",
+            "name": "Okuhle Gxotiwe",
+            "testimony": "He is very dedicated to his work and steadily improving his skills with a positive attitude."
+        },
+        {
+            "id": 5,
+            "image": "https://i.postimg.cc/xTTSR8Kc/C12-C1-Xola-Bangaza-2.jpg",
+            "name": "Xola Bangaza",
+            "testimony": "Abenathi is an enthusiastic person, who is always willing to improve upon his mistakes. He's constantly interacting with other people, learning different skills each day and often-times shares he's skills with he's colleagues at work. There's hardly ever an unpleasant moment when he's around and he is a constant source of joy in the workplace."
+        },
+        {
+            "id": 6,
+            "image": "https://i.postimg.cc/pTYgQMrf/Waydin-Jochem-C12-C1-25-Apr23-2.jpg",
+            "name": "Waydin Jochem",
+            "testimony": "Abenathi is an enthusiastic person, who is always willing to improve upon his mistakes. He's constantly interacting with other people, learning different skills each day and often-times shares he's skills with he's colleagues at work. There's hardly ever an unpleasant moment when he's around and he is a constant source of joy in the workplace."
+        }
+    ]  
+}
