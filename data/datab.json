@@ -1,64 +1,46 @@
 {
-  "skills": [
-    { 
-    "id": 1,
-    "name": "HTML",
-    "imgURL": "https://i.postimg.cc/0QWr458Z/file-type-html-226x256.png",
-    "category": "technical"
-    },
-    { 
-    "id": 2,
-    "name": "CSS",
-    "imgURL": "https://i.postimg.cc/bNGSKnSn/file-type-css-226x256.png",
-    "category": "technical"
-    },
-    { 
-    "id": 3,
-    "name": "Bootstrap",
-    "imgURL": "https://i.postimg.cc/CKCqcVB6/bootstrap-plain-256x256.png",
-    "category": "technical"
-    },
-    { 
-    "id": 4,
-    "name": "JavaScript",
-    "imgURL": "https://i.postimg.cc/dtTDWKgm/file-type-js-official-256x256.png",
-    "category": "technical"
-    },
-    { 
-    "id": 5,
-    "name": "VUE.JS",
-    "imgURL": "https://i.postimg.cc/9fxq6YbG/vue-vuejs-javascript-js-framework-256x223.png",
-    "category": "technical"
-    },
-    { 
-    "id": 6,
-    "name": "MySQL",
-    "imgURL": "https://i.postimg.cc/3rkgHVPW/mysqlworkbench-512x506.png",
-    "category": "technical"
-    },
-    { 
-    "id": 7,
-    "name": "NODE.JS",
-    "imgURL": "https://i.postimg.cc/mZK7ZVsj/node-js-227x256.png",
-    "category": "technical"
-    },
-    { 
-    "id": 8,
-    "name": "NPM",
-    "imgURL": "https://i.postimg.cc/7LP2tW3H/npm-512x200.png",
-    "category": "technical"
-    },
-    { 
-    "id": 9,
-    "name": "GitHub",
-    "imgURL": "https://i.postimg.cc/zfpfLDR5/github-256x250.png",
-    "category": "technical"
-    },
-    { 
-    "id": 1,
-    "name": "Firebase",
-    "imgURL": "https://i.postimg.cc/cLwgJNm4/file-type-firebase-187x256.png",
-    "category": "technical"
-    },
-  ],
+   "projects": [
+        {
+            "id": 1,
+            "link": "https://thriving-bootstrap-project.netlify.app/",
+            "github:": "https://github.com/Abenathi201/Bootstrap-Project",
+            "image": "https://i.postimg.cc/zBtZTYRB/Screenshot-2023-07-06-091632.png",
+            "name": "Bootstrap and CSS Portfolio"
+        },
+        {
+            "id": 2,
+            "link": "https://lively-kashata-daebbe.netlify.app/",
+            "github:": "https://github.com/Abenathi201/BMI-Calculator",
+            "image": "https://i.postimg.cc/8kYg5DSX/Screenshot-2023-07-06-091809.png",
+            "name": "BMI Calculator"
+        },
+        {
+            "id": 3,
+            "link": "https://lustrous-custard-0c1285.netlify.app/",
+            "github:": "https://github.com/Abenathi201/E-Cormmerce-Vue",
+            "image": "https://i.postimg.cc/3x5MXBWg/Screenshot-2023-07-06-091917.png",
+            "name": "VUE.JS E-COMMERCE Website"
+        },
+        {
+            "id": 4,
+            "link": "https://bespoke-pika-c065c0.netlify.app/",
+            "github:": "https://github.com/Abenathi201/JavaScript-End-Module-Project",
+            "image": "https://i.postimg.cc/pXnb57VW/Screenshot-2023-07-06-092015.png",
+            "name": "JavaScript E-Commerce Website"
+        },
+        {
+            "id": 5,
+            "link": "https://todo-list-4e3b7d.netlify.app/",
+            "github:": "https://github.com/Abenathi201/ToDo-List",
+            "image": "https://i.postimg.cc/d1tc7V3p/Screenshot-2023-07-06-092318.png",
+            "name": "TODO List"
+        },
+        {
+            "id": 6,
+            "link": "https://sunny-gumdrop-5e2975.netlify.app/",
+            "github:": "https://github.com/Abenathi201/Temperature-Converter",
+            "image": "https://i.postimg.cc/gjQCBysb/Screenshot-2023-07-06-092501.png",
+            "name": "Temperature Converter"
+        }
+    ],
 }
