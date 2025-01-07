@@ -37,20 +37,6 @@
 
     "projects": [
         {
-            "id": 1,
-            "link": "https://thriving-bootstrap-project.netlify.app/",
-            "github": "https://github.com/Abenathi201/Bootstrap-Project",
-            "image": "https://i.ibb.co/mHgNkRw/Screenshot-2024-01-24-122826.png",
-            "name": "Bootstrap and CSS Portfolio"
-        },
-        {
-            "id": 2,
-            "link": "https://lively-kashata-daebbe.netlify.app/",
-            "github": "https://github.com/Abenathi201/BMI-Calculator",
-            "image": "https://i.ibb.co/48g5hXf/Screenshot-2024-01-24-122852.png",
-            "name": "BMI Calculator"
-        },
-        {
             "id": 3,
             "link": "https://capstonefinal-ea2e1.web.app/",
             "github": "https://github.com/Abenathi201/Capstone_E-Commerce.git",
@@ -71,13 +57,6 @@
             "image": "https://i.ibb.co/z7N89MZ/Screenshot-2024-03-05-124618.png",
             "name": "Car Hub"
         },
-        {
-            "id": 6,
-            "link": "https://sunny-gumdrop-5e2975.netlify.app/",
-            "github": "https://github.com/Abenathi201/Temperature-Converter",
-            "image": "https://i.ibb.co/RHB5k4v/Screenshot-2024-01-24-123118.png",
-            "name": "Temperature Converter"
-        }
     ],
 
     "skills": [
