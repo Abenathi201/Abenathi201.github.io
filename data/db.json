@@ -37,21 +37,21 @@
 
     "projects": [
         {
-            "id": 3,
+            "id": 1,
             "link": "https://capstonefinal-ea2e1.web.app/",
             "github": "https://github.com/Abenathi201/Capstone_E-Commerce.git",
             "image": "https://i.ibb.co/sb7WjZr/Screenshot-2024-01-24-123011.png",
             "name": "Capstone Project"
         },
         {
-            "id": 4,
+            "id": 2,
             "link": "https://promptopia-chi-seven.vercel.app/",
             "github": "https://github.com/Abenathi201/promptopia.git",
             "image": "https://i.ibb.co/YLKt2Ph/Screenshot-2024-01-24-122802.png",
             "name": "Promptopia"
         },
         {
-            "id": 5,
+            "id": 3,
             "link": "https://car-hub-ebon-alpha.vercel.app/",
             "github": "https://github.com/Abenathi201/car_hub",
             "image": "https://i.ibb.co/z7N89MZ/Screenshot-2024-03-05-124618.png",
